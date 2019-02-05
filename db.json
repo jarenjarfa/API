@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "username": "jarenjarfa",
+      "password":12345
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
